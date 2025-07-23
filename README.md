@@ -1,3 +1,3 @@
-# text-classification
+# Classification tasks based on social sensing
 
-This project is a merger of multiple text categorization projects and models into a single project.
+This project is a merger of multiple Classification projects and models into a single project.
